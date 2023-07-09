@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May  8 23:47:09 2018
+Created by Debuggers
 
-@author: Simar
+@author: Kaushik Das
+@author: Sourav Pal
+@author: Manaswini Ray
 """
 
 #importing libraries
