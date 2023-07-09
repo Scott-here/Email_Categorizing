@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon May 14 17:13:34 2018
+Created By Team Debuggers
+@author Kaushik Das
+@author sourav pal
+@author manaswini ray
 
-@author: Simar
 """
 
 '''Importing libraries'''
@@ -812,7 +814,7 @@ email_class.classification(features_train, features_test, labels_train, labels_t
 email_class.Stochastic_Gradient(features_train, features_test, labels_train, labels_test)
 email_class.Vote(features_train, features_test, labels_train, labels_test)
 
-'''*************************END BLOCK-1 ************************************'''
+'''*******************END BLOCK-1 ************************'''
 
 
 '''********************************************************************
@@ -840,7 +842,7 @@ email_class_stem.classification_stem(features_train_stem, features_test_stem, la
 email_class_stem.Stochastic_Gradient_stem(features_train_stem, features_test_stem, labels_train_stem, labels_test_stem)
 email_class_stem.Vote_Stem(features_train_stem, features_test_stem, labels_train_stem, labels_test_stem)
 
-'''**************************END BLOCK-2 **************************************'''
+'''********************END BLOCK-2 ***************************'''
 
 
 '''********************************************************************************
@@ -851,7 +853,7 @@ length_mat= Length_Matrix()
 length_mat.Length_without_stemming(features)
 length_mat.Length_stemming(features_stem)
 
-'''******************** END BLOCK-3 ***********************************************'''
+'''******************** END BLOCK-3 ***********************'''
 
 
 '''***********************************************************************************
@@ -882,4 +884,4 @@ email_class_stem.classification_stem(features_train_count_stem, features_test_co
 email_class_stem.Stochastic_Gradient_stem(features_train_count_stem, features_test_count_stem, labels_train_count_stem, labels_test_count_stem)
 email_class_stem.Vote_Stem(features_train_count_stem, features_test_count_stem, labels_train_count_stem, labels_test_count_stem)
 
-'''*************************** END BLOCK-4 ***********************************************'''
+'''*************************** END BLOCK-4 ***************************'''
